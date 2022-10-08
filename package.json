@@ -1,0 +1,18 @@
+{
+  "name": "sss61-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "แทงลอตเตอรี่✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"แทงลอตเตอรี่",
+"รวมเว็บแทงหวย",
+"lottovip หวยลาว",
+"เว็บหวยรัฐบาลออนไลน์",
+"สมัครเว็บ lottovip"
+],
+  "repository": "https://github.com/setteebet/sss61-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
